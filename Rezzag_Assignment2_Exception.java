@@ -102,8 +102,6 @@ public class Rezzag_Assignment2_Exception {
 
 	private static class EndOfSentenceException extends Exception {
 
-		String str;
-
 		public EndOfSentenceException(String string) {
 			System.out.print(string);
 		}
