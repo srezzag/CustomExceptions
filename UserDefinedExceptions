@@ -1,7 +1,6 @@
 
 /*
  * @author Samy Rezzag
- * IT-214 Assignment 2 - Exercise 72036
  */
 
 import java.util.Scanner;
@@ -14,7 +13,7 @@ import java.util.Scanner;
  * rest of the code and their functions will be readily available.
  */
 
-public class Rezzag_Assignment2_Exception {
+public class UserDefinedExceptions {
 
 	/*
 	 * Main method will instantiate variables and scanner to collect user input. It
