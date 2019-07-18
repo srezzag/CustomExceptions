@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /*
  * Contains a main method to start the application. It also contains 3 private classes to handle end of sentence exceptions.
- * These 3 classes are private because they are inner classes of Rezzag_Assignment2_Exception. Also, they are static because if they weren't,
+ * These 3 classes are private because they are inner classes of UserDefinedExceptions. Also, they are static because if they weren't,
  * we'd have to instantiate them in order to use 'throw'. Static nested classes are used so we can have them compile before the 
  * rest of the code and their functions will be readily available.
  */
